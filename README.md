@@ -80,13 +80,3 @@ Para garantir que ele não se perca no fluxo:
 * Ícones ajudam no reconhecimento rápido, mesmo sem leitura completa
 * O design evita sobrecarga cognitiva, mostrando apenas o essencial
 
----
-
-## 📁 Estrutura do Projeto
-
-```bash
-/prototipo
-  ├── prototipo.png
-  └── prototipo.pdf
-README.md
-```
